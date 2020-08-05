@@ -1,0 +1,19 @@
+.header {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+.header2 {
+ background-color: whitesmoke;
+ display: flex;
+ justify-content: space-between;
+}
+
+
+body {
+    background-color: pink;
+}
+
+* {
+    padding: 20px;
+}
